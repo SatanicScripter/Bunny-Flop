@@ -23,6 +23,6 @@ If not repeat the previous steps.
 NOW YOU CAN JOIN A LOBBY WITH BOT OR A MULTIPLAYER SERVER.
 This cheat has no ban chance so use it and have fun :D .
 
-#VirusTotal link
+# VirusTotal link
 https://www.virustotal.com/gui/file/c419210bdf330f71601005bcccb18188fceb91d715d7ba075f77e2637a32320f
 
